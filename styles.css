@@ -1,0 +1,236 @@
+body{
+  font-family: "Open Sans","OpenSans",sans-serif;
+  line-height: 1.35;
+  position: relative;
+  font-size: 16px;
+  font-weight: normal;
+  }
+@media screen and (min-width: 480px){
+}
+@media screen and (min-width: 600px){
+}
+@media screen and (min-width: 767px){
+}
+@media screen and (min-width: 950px){
+}
+
+header{
+  background-color: rgb(29,78,105);
+}
+/*barra de navegacion */
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding: 3%;
+  margin-top: -3%
+}
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  }
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0px;
+  margin: -15px 0px 0 0;
+}
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+/*final de navegacion */
+/* barra de busqueda*/
+/*amaizing things */
+#barra-de-busqueda{
+  margin-top: 20px;
+ display: inline-flex;
+}
+#buscador{
+  margin-left: 8px;
+  height: 30px;
+}
+#npmlogo{
+
+  width: 120px;
+  height: 40px;
+}
+.signupb{
+}
+.logobear{
+  width: 50px;
+  height: 50px;  }
+
+  #cityimage{
+    float : right;
+    margin-right: 0;
+    margin-top: -15%;
+    height: 324.668px;
+    width: 100%;  }
+
+    #cityscape{
+    color: white;
+    width:100%;
+    background-color: rgb(29,78,105);
+    float: left;
+  }
+  #cityscape>h1{
+    margin-left: 15%;}
+
+  #cityscape>p{
+    margin-left: 15%;
+    width: 30%;
+  }
+.pnpm{
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-size: 16px
+
+}
+/*final amaizing things */
+/*colaboration*/
+.section1{
+  background: #273547 !important;
+  }
+.colaboration{
+  width: 40%;
+  height: 20%
+  float: left;
+}
+#colaborationimg{
+margin-left: 50%;
+  width: 560px;
+  height: 383.583px;
+}
+.colaboration1{
+  color: white;
+  float: right;
+  margin-left: 55%;
+  margin-right:15%;
+  margin-top: -22%;
+}
+#h3colaboration{
+  font-size: 36px;
+  font-weight: 100;
+}
+#list1{
+  margin-left: -5%;
+  line-height: 2.35;
+}
+/*final colaboration*/
+/*what is npm?*/
+#forklift1{
+  float : right;
+  margin-right: 0;
+  margin-top: 0px;
+  height: 350.668px;
+  width: 100%;  }
+#h3whatisnpm{
+  font-weight: 100;
+  font-size: 36px;
+}
+.whatisnpm{
+  text-align: justify;
+  color: white;
+  float: left;
+  margin-left: 23%;
+  margin-top: -15%;
+  margin-right:60%;
+}
+/*final what is npm?*/
+
+/*what can you make with 450.000 */
+#section2{
+  margin-top: 20%;
+}
+.h3whatcanyoumake{
+  text-align: center;
+  line-height: 1.35;
+}
+#h3buildings{
+  font-weight: 100;
+  font-size: 36px;
+}
+.sectiondiv{
+  display: inline-flex;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.shorttittle{
+  font-weight: bold;
+  font-size: 25px;
+}
+#binoculares{
+  text-align: center;
+  margin-right: 10%;
+}
+#mountain{
+  text-align: center;
+  margin-right: 5%;
+}
+#backpack{
+  text-align: center;
+  margin-left: 5%;
+}
+/* final what can you make*/
+
+/*car and buildings billboard section*/
+#section3{
+  background:#34495e;
+  float : right;
+  margin-left: 80%;
+  margin-top: 0px;
+  width: 100%;
+}
+#buldingnbillboards{
+  float: right;
+#float: left;
+    margin-left: 40%;
+    position: absolute;
+    margin-top: 16.5%;
+    width: 10%;
+    height: 5%;
+}
+#modular{
+  color: white;
+  margin-top: 9%;
+  margin-left: 12%;
+  margin-right: 70%;
+  float: left;
+  }
+#redcar{
+  position: absolute;
+  float: right;
+  margin-left: -58%;
+  margin-top: 18.72%;
+  width: 10%;
+  height: 4.5%;
+}
+#buildingnbillboards{
+  margin-left: 50%;
+  width: 30%;
+  height: 30%;
+  margin-top: -17.16%;
+}
+#footerbackground{
+  background: #1A8BCB;
+  width: 100%;
+  height: 450px;
+}
+/*final car and buildings billboard section*/
+#footer{
+  background: #6d7986;
+}
+#climbingbears{
+  float: left;
+width: 20%;
+margin-top: 7%;
+margin-left: 27%;
+}
+#takeanenterprisetrial{
+float: right;
+margin-top: -14%;
+margin-right: 30%;
+margin-left: 50%;
+}
